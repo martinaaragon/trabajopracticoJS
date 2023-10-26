@@ -1,5 +1,5 @@
-const numero = parseInt(prompt("Ingresa un número:"));
-const divisibles = []
+const numero =prompt("Ingresa un número:");
+const divisibles = [];
 
 if (numero % 2 === 0) {
   divisibles.push(2);
